@@ -1,6 +1,6 @@
-<img src="profilebannerwide.png" width="100%" height="auto">
+<!--<img src="profilebannerwide.png" width="100%" height="auto">-->
 
-<!--### Hi there 👋-->
+### Hi there 👋
 
 <!--
 **dylanheaslip/dylanheaslip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
